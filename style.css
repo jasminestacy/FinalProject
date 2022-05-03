@@ -1,0 +1,53 @@
+body {
+  background-color: #858585;
+}
+
+
+header, container, footer {
+  background-color: #191827;
+  color: #858585;
+  text-align: center;
+  padding: 10px
+}
+nav a {
+  color: #99795E;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: #191827;
+  color: #5C3F27;
+}
+section {
+  color: #5C3F27;
+   // width: 300px;
+  // margin: auto;
+text-align: center;
+  
+}
+#mynavbar {  
+  background-color: 
+ #191827;
+  border-radius: 5px;
+}
+
+#mynavbar li a {  
+  color: 
+#858585; 
+}
+
+#mynavbar li a:hover {
+  background-color: 
+#ffeef2;   
+  color: 
+ #191827;        
+}
+
+section {
+  color: #5C3F27;
+   // width: 300px;
+  // margin: auto;
+text-align: center;
+  
+}
